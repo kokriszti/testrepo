@@ -3,3 +3,5 @@ testing file state changes
 testing additional changes
 
 testing changes on SmartGit
+
+testing changes in VSC
