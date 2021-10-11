@@ -1,1 +1,5 @@
 testing file state changes
+
+testing additional changes
+
+testing shanges on SmartGit
