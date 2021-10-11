@@ -2,4 +2,4 @@ testing file state changes
 
 testing additional changes
 
-testing shanges on SmartGit
+testing changes on SmartGit
